@@ -90,7 +90,7 @@
                     <g id="Group" mask="url(#mask-8)">
                         <g transform="translate(-2.000000, -29.000000)">
                             <rect id="Rectangle" fill="none" x="0" y="0" width="88" height="31"></rect>
-                            <rect id="Rectangle" fill="#B39F67" fill-rule="evenodd" x="0" y="0" width="83" height="31"></rect>
+                            <rect id="Rectangle" fill="#9097A0" fill-rule="evenodd" x="0" y="0" width="83" height="31"></rect>
                             <rect id="Rectangle" fill="#B5B5B5" fill-rule="evenodd" x="0.365" y="0" width="36.443" height="31"></rect>
                             <g id="Group" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 30.000000)">
                                 <g id="XMLID_1131_-link" fill="#383838">
@@ -150,9 +150,7 @@
                 </g>
             </g>
             <g id="Group" transform="translate(80.000000, 1.000000)">
-                <g id="XMLID_1137_-link" fill="#9E9C9C">
-                    <rect id="XMLID_1137_" x="0.806" y="0" width="1" height="30"></rect>
-                </g>
+                <g id="XMLID_1137_-link"></g>
                 <g id="Clipped">
                     <mask id="mask-16" fill="white">
                         <use xlink:href="#path-15"></use>
@@ -161,7 +159,7 @@
                     <g id="Group" mask="url(#mask-16)">
                         <g transform="translate(-80.000000, -1.000000)">
                             <rect id="Rectangle" fill="none" x="0" y="0" width="88" height="31"></rect>
-                            <rect id="Rectangle" fill="#B39F67" fill-rule="evenodd" x="0" y="0" width="83" height="31"></rect>
+                            <rect id="Rectangle" fill="#9097A0" fill-rule="evenodd" x="0" y="0" width="83" height="31"></rect>
                             <g id="Group" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 30.000000)">
                                 <g id="XMLID_1139_-link" fill="#383838">
                                     <rect id="XMLID_1139_" x="0" y="0" width="83" height="1"></rect>
@@ -192,7 +190,7 @@
                                     <g id="Group" mask="url(#mask-20)">
                                         <g transform="translate(-2.000000, -29.000000)">
                                             <rect id="Rectangle" fill="none" x="0" y="0" width="88" height="31"></rect>
-                                            <rect id="Rectangle" fill="#807659" fill-rule="evenodd" x="0" y="0" width="83" height="31"></rect>
+                                            <rect id="Rectangle" fill="#6E7176" fill-rule="evenodd" x="0" y="0" width="83" height="31"></rect>
                                             <rect id="Rectangle" fill="#818181" fill-rule="evenodd" x="0.365" y="0" width="36.443" height="31"></rect>
                                             <g id="Group" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 30.000000)">
                                                 <g id="XMLID_1143_-link" fill="#272727">
