@@ -1,10 +1,3 @@
-# HTML5 Valid Badge
-
-HTML5 valid badge for your website (PNG &amp; SVG formats). Use only if your pages pass with the official validator: https://html5.validator.nu
-
-SVG code to copy/paste:
-
-```html
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="88px" height="31px" viewBox="0 0 88 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
@@ -281,4 +274,3 @@ SVG code to copy/paste:
         </g>
     </g>
 </svg>
-```
